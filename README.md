@@ -4,6 +4,38 @@ A new Flutter project.
 
 ## Getting Started
 
+
+# ScreenShot 1
+
+<img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/ScreenShot1.png" height="400">
+
+
+
+# ScreenShot 2
+
+<img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/ScreenShot2.png" height="400">
+
+
+
+
+# ScreenShot 3
+
+<img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/ScreenShot3.png" height="400">
+
+
+# ScreenShot 4
+
+<img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/ScreenShot4.png" height="400">
+
+
+
+
+# Result
+
+<img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/result.gif" height="400">
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

@@ -35,6 +35,12 @@ A new Flutter project.
 <img src="https://github.com/Mirzaazmath/hero_text_animation_in_flutter/blob/main/assets/output/result.gif" height="400">
 
 
+# Features
+* Custom FadeIn Animation
+* hero Transition
+
+
+
 
 This project is a starting point for a Flutter application.
 
